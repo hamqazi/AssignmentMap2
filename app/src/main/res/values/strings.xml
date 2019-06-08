@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AssignmentMap2</string>
     <string name="title_activity_maps">Map</string>
+    <string name="api_key">06a099a76eab41c397dab01489747542</string>
 </resources>
